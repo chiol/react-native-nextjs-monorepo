@@ -1,12 +1,6 @@
-<h1 align="center">full stack monorepo</h1>
+<h1 align="center">react native + nextjs monorepo</h1>
 
-# Packages
-
-- mobile - react native
-- web - react + nextjs
-- backend - hasura + strapi + nestjs
-
-# Frontend
+# ScreenShot
 
 ![screenshot](./imgs/screenshot.png)
 
@@ -26,8 +20,6 @@ yarn ios
 # web
 yarn web
 ```
-
-# Backend
 
 # Thanks to
 
