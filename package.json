@@ -1,5 +1,5 @@
 {
-  "name": "full_stack_app",
+  "name": "front-mono-app",
   "private": true,
   "workspaces": [
     "packages/*"
